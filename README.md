@@ -10,7 +10,7 @@
 <!-- end list -->
 
     install.packages("devtools")
-    devtools::install_github("cenwu/emBayes")
+    devtools::install_github("Yuwen-L/interep")
 
   - Released versions of emBayes are available on CRAN
     [(link)](https://cran.r-project.org/package=emBayes), and can be
