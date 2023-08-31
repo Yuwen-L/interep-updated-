@@ -2,7 +2,7 @@
 #install.packages("interep_0.4.0.tar.gz", repos = NULL, type="source")
 
 install.packages("devtools")
-devtools::install_github("cenwu/emBayes")
+devtools::install_github("Yuwen-L/interep")
 
 library(interep)
 library(MASS)
