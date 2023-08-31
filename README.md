@@ -17,6 +17,6 @@
 
 ## Updated
 
-"DESCRIPTION": changed Version, Author,  RoxygenNote
-"cv.interep.R": corrected cv code, added software paper to reference
-"interep.R": added software paper to reference
+    "DESCRIPTION": changed Version, Author,  RoxygenNote
+    "cv.interep.R": corrected cv code, added software paper to reference
+    "interep.R": added software paper to reference
